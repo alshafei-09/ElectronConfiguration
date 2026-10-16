@@ -1,2 +1,14 @@
 # ElectronConfiguration
-Printing electron configuration of atomic number
+### Printing electron configuration of atomic number  
+
+## Features
+- Read atomic number
+- Calculate the Electron Configuration
+- Displaying the result
+
+## Language
+- C++
+  
+### Author 
+Ahmed
+
