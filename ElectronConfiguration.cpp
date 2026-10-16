@@ -19,7 +19,6 @@ string ElectronCapacity[19] = {
     "2","14","10","6",
     "2","14","10","6" };
 string Print[19];
-
 struct stInfo
 {
     int Remain = 0;
