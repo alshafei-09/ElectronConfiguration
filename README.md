@@ -7,7 +7,7 @@
 - Displaying the result
 
 ## Language
-- C++
+- C++ (GCC compiler)
   
 ### Author 
 Ahmed
